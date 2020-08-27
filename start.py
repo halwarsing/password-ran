@@ -4,13 +4,13 @@ import time
 import sys
 
 class thr(Thread):
-        def __init__(self):
+        def __init__(self,cc):
                 self.tim = time.time()
                 Thread.__init__(self)
                 self.chars = "!&$#?=@<>abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
                 self.ai = 0
                 self.le = 8
-                self.ac = 100
+                self.ac = int(cc)
                 with open("password/passwords0.txt", "r") as f:
                         text = f.read()
                         self.sl = text.split(",")
@@ -46,6 +46,6 @@ class thr(Thread):
                 f.close()
                 sys.exit()
 
-def run():
-        thrd = thr()
+def run(cc):
+        thrd = thr(cc)
         thrd.start()
