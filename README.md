@@ -4,7 +4,7 @@ create random passwords in python
 INSTRUCTION
 
 # 1. download
-wget https://github.com/password-ran.git
+wget https://github.com/password-ran.git && cd password-ran
 
 # 2. activate
 python main.py [count proccesess] [count passwords in proccess]
