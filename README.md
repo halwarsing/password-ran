@@ -15,10 +15,10 @@ python main.py 100 1000
 # if you want to help me, then drop the new generated passwords on - https://drive.google.com/drive/folders/1AzABFOFzOpNWi-FkKa_iR00E598XsgpM?usp=sharing
 
 Thanks for watching
-_____________________________
+-----------------------------
 |=H---H======A======L=======|
 |=H---H=====A-A=====L=======|
 |=HHHHH====A---A====L=======|
 |=H---H===AAAAAAA===L=======|
 |=H---H==A-------A==LLLLLLL=|
------------------------------
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFF
