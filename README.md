@@ -16,8 +16,8 @@ python main.py 100 1000
 
 Thanks for watching
 
-#H   H      A      L
-#H   H     A A     L
-#HHHHH    A   A    L
-#H   H   AAAAAAA   L  
-#H   H  A       A  LLLLLLL
+# H   H      A      L
+# H   H     A A     L
+# HHHHH    A   A    L
+# H   H   AAAAAAA   L  
+# H   H  A       A  LLLLLLL
